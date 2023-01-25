@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-25T17:40:55Z",
+  "IdClaims": [
+    {
+      "Claim": "t:patamystic"
+    },
+    {
+      "Claim": "ss:patamystic"
+    },
+    {
+      "Claim": "mdon:@patamystic@sfba.social"
+    },
+    {
+      "Claim": "med:patamystic"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "75a1fc56e2688cce96d53e1a",
+    "Timestamp": "2023-01-25T17:46:52Z",
+    "Signature": "93c326ae151b45c0d0209ff37b74a9b8a88c5eab92aab86de0108f081a966fdf713396d66a6fc691bdf4d10393d68680e04b9199d76c82c7d8e71d2e19e0258592cb85d64a8c4aca3e3aa76f21b7515565592aa940b96d5c718343b30310bcda2a3d87d13d30e938c98365c754627804fdfa316489f49883d30ee6352a5a0a88f868f47c1848cd31f96ed3a61f62bf7fe6484a60613278cef58d1bc562f751ca9dacdc43ed8a09a0973dc83e3dabaecbf2b0d624d91be5b5339eac9d601eb0142e251df9ecf8d03e652d9ad98f1587df4467a7fa80091af2b3275f539fc96d78c76b72031b1fbcdce30a4c4445b2985ff98904d08b79c1c099cff80126a8ed21"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "0d6f7a2c9738c6cca9ef3bb55459334903653eabad4fd8968374593fc58461a7",
+  "ContentToHash": "v1|mdon:@patamystic@sfba.social,med:patamystic,ss:patamystic,t:patamystic|2023-01-25T17:40:55Z"
+}
